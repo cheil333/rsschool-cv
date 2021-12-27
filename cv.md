@@ -21,6 +21,7 @@ const func = (num) => {
 no
 
 ## Education and courses:
+no
 
 
 ## English level - A1
